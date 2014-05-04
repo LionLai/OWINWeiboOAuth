@@ -1,4 +1,8 @@
 OWINWeiboOAuth
 ==============
 
-For ASP.Net MVC 5 Weibo OAuth
+For OWIN Weibo OAuth2 Provider 
+
+How To Use
+
+`app.UseWeiboAuthentication(appId: "", appSecret: "");`
