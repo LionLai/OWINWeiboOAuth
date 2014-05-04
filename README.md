@@ -1,4 +1,4 @@
-OWINWeiboOAuth
+OWIN Weibo OAuth
 ==============
 
 For OWIN Weibo OAuth2 Provider 
